@@ -1,6 +1,6 @@
 {
-  "messageID": 4,
-  "refreshesDaily": true,
-  "header": "Hello, student!",
-  "body": "WELCOME TO WMC!"
+  "messageID": 1,
+  "refreshesDaily": false,
+  "header": "WMC Student Portal Updated!",
+  "body": "Hello students, I've updated the WMC Student Portal to include new features such as notes and announcements! If you have any suggestions or issues, please let me know at lkonyndyk@wmchs.net. Thank you and enjoy!"
 }
