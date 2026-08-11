@@ -1,6 +1,6 @@
 {
-  "messageID": 13,
-  "refreshesDaily": true,
-  "header": "Technology Returns",
-  "body": "NON-AP STUDENTS: If you haven't already done so, please return your Chromebook, case, and charger to the WMC Office."
+  "messageID": 14,
+  "refreshesDaily": false,
+  "header": "Welcome to WMC",
+  "body": "This is the Student New Tab Portal, where you can quickly access your classes, grades, email, and Google tools."
 }
