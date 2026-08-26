@@ -1,6 +1,6 @@
 {
-  "messageID": 14,
-  "refreshesDaily": false,
-  "header": "Welcome to WMC",
-  "body": "This is the Student New Tab Portal, where you can quickly access your classes, grades, email, and Google tools."
+  "messageID": 15,
+  "refreshesDaily": true,
+  "header": "Lunch Count",
+  "body": "If you haven’t already done so, please fill out the lunch count form located in Student Bookmarks. Thank you!"
 }
