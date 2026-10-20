@@ -1,6 +1,6 @@
 {
   "messageID": 15,
-  "refreshesDaily": true,
+  "refreshesDaily": false,
   "header": "Lunch Count",
   "body": "If you haven’t already done so, please fill out the lunch count form located in Student Bookmarks. Thank you!"
 }
