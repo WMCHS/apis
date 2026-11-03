@@ -1,6 +1,6 @@
 {
   "messageID": 16,
-  "refreshesDaily": true,
+  "refreshesDaily": false,
   "header": "Lunch Count",
   "body": "Please remember to fill out your lunch count in your student bookmarks. Thank you!"
 }
